@@ -1,0 +1,1 @@
+hooks are functions in react that allow us to manage state
